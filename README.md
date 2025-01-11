@@ -1,5 +1,5 @@
 # gemi. Chat
-![Screenshot]([https://github.com/AHMEDALBREEM/gernerative-ai-paper/blob/main/screenshot.png])
+![Screenshot](https://github.com/AHMEDALBREEM/gernerative-ai-paper/blob/main/screenshot.png)
 ## Description
 gemi. Chat is a chat application that allows users to interact with a generative AI model. The application provides a user-friendly interface for sending messages and receiving responses from the AI.
 
